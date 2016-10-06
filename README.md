@@ -1,3 +1,0 @@
-# vacancyTest
-
-It works.
